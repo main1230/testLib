@@ -8,11 +8,8 @@ import android.net.wifi.WifiManager;
 
 /**
  * @Description: 判断网络状态
- * @FileName: NetworkStatueUtil.java
- * @Package: com.tbkt.teacher.utils
  * @Author: zhangzl
  * @Date: 2015/4/27
- * @Version V1.0
  */
 public class NetworkStatueUtil {
     /**
